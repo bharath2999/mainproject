@@ -1,6 +1,6 @@
 
 /*
- * Author:BHARATH,RAYAPU
+ * Author:BHARATH,R
  * Date: 11/27/2017
  * StudentId: 999993704
  * Description: The Calculator class is used to create a simple calculator using java swing
@@ -29,7 +29,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-
+//
 public class Calculator extends JPanel implements ActionListener {
 
 	// TextField object is created
